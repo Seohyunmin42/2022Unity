@@ -11,6 +11,6 @@ Unity 엔진을 활용하여 제작되었으며 VR FPS게임으로 포트폴리�
 - 개발언어 : C#
 
 
-## 영상 및 기술서
+## 영상 및 PPT
 - 동영상 : https://youtu.be/3Rb3GGAWz-U
-- 기술서 : http://naver.me/Fjc10V0e
+- PPT : http://naver.me/G7ZPviOm
